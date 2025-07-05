@@ -14,7 +14,7 @@ const Header = () => {
         <div></div>
         <div className="flex justify-around"> 
             <h1 className="text-3xl ">Title</h1>
-            <Button className=''>o</Button></div>
+            <Button className=''></Button></div>
         <Button className="bg-background text-foreground hover:bg-background border-1 ">
           update
         </Button>
